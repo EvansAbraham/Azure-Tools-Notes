@@ -103,7 +103,7 @@
 	- Self-Hosted,
 	- Azure-SSIS
 	
-First Header |  Public Network Support | Private Link Support |
+  |  Public Network Support | Private Link Support |
 |-|-|-|
 Azure | Data Flow ,Data movement, Activity dispatch | Data Flow ,Data movement, Activity dispatch
 Self-hosted | Data movement, Activity dispatch | Data movement, Activity dispatch
